@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@performanc/pctl": "github:performanc/internals#PCTL",
+    "@performanc/pwsl-server": "github:performanc/internals#PWSL-server"
+  }
+}
