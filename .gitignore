@@ -1,7 +1,9 @@
 *
 
 !.gitignore
+!checks.js
 !index.js
 !LICENSE
 !package.json
 !README.md
+!structures.js
